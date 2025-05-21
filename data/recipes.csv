@@ -1,0 +1,6 @@
+meal_name,ingredients,tags
+Veg Pulao,"rice 1, peas 0.5, spices 0.2",veg
+Grilled Chicken,"chicken 1, olive oil 0.1, spices 0.2","non-veg, high-protein"
+Oats Porridge,"oats 1, milk 0.5, honey 0.2","veg, breakfast"
+Fruit Salad,"apple 1, banana 1, yogurt 0.5",veg
+Egg Sandwich,"bread 2, egg 1, butter 0.2",non-veg
